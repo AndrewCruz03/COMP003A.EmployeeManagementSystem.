@@ -13,7 +13,7 @@ namespace COMP003A.EmployeeManagementSystem_
         static void Main(string[] args)
         {
 
-           
+            Console.WriteLine("Employee Managamnet System: ");
 
 
 
